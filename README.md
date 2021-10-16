@@ -3,7 +3,7 @@
 
 ### Running the application locally
 
-You need Java 11 and Maven 2 installed:
+You need Java 11 and Maven 3 installed:
 ```shell
 mvn spring-boot:run
 ```
